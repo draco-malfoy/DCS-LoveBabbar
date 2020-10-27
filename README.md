@@ -4,9 +4,10 @@
 
 [Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) to the original sheet.
 
-Topic:	Problem:
- 	 
-Array	Reverse the array
+Topic|Sr. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-|-
+Array|[01](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/01)|Reverse the array|[GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|&check;|&check;|&check;|-
+
 Array	Find the maximum and minimum element in an array
 Array	Find the "Kth" max and min element of an array
 Array	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo
