@@ -114,9 +114,6 @@ S. No.|Problem|Reference|C++|Java|Python|Other languages
 88|[Check if two given strings are isomorphic to each other]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
 89|[Recursively print all sentences that can be formed from list of word lists]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
 
-61|[]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-
- 	 
 ### Searching & Sorting
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	 
@@ -128,401 +125,401 @@ S. No.|Problem|Reference|C++|Java|Python|Other languages
 95|[Optimum location of point to minimize total distance]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
 96|[Find the repeating and the missing]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
 97|[Find majority element]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-97|[Searching in an array where adjacent differ by at most k]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-98|[Find a pair with a given difference]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-99|[Find four elements that sum to a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-100|[Maximum sum such that no 2 elements are adjacent]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-101|[Count triplet with sum smaller than a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-102|[Merge 2 sorted arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-103|[Print all subarrays with 0 sum]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-104|[Product array Puzzle]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-105|[Sort array according to count of set bits]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-106|[Minimum no. of swaps required to sort the array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-107|[Bishu and Soldiers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-108|[Rasta and Kheshtak]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-109|[Kth smallest number again]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-110|[Find pivot element in a sorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-111|[K-th Element of Two Sorted Arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-112|[Aggressive cows]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-113|[Book Allocation Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-114|[EKOSPOJ:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-115|[Job Scheduling Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-116|[Missing Number in AP]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-117|[Smallest number with atleastn trailing zeroes infactorial]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-118|[Painters Partition Problem:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-119|[ROTI-Prata SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-120|[DoubleHelix SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-121|[Subset Sums]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-122|[Find the inversion count]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-123|[Implement Merge-sort in-place]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-124|[Partitioning and Sorting Arrays with Many Repeated Entries]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+98|[Searching in an array where adjacent differ by at most k]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+99|[Find a pair with a given difference]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+100|[Find four elements that sum to a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+101|[Maximum sum such that no 2 elements are adjacent]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+102|[Count triplet with sum smaller than a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+103|[Merge 2 sorted arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+104|[Print all subarrays with 0 sum]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+105|[Product array Puzzle]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+106|[Sort array according to count of set bits]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+107|[Minimum no. of swaps required to sort the array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+108|[Bishu and Soldiers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+109|[Rasta and Kheshtak]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+110|[Kth smallest number again]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+111|[Find pivot element in a sorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+112|[K-th Element of Two Sorted Arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+113|[Aggressive cows]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+114|[Book Allocation Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+115|[EKOSPOJ:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+116|[Job Scheduling Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+117|[Missing Number in AP]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+118|[Smallest number with atleastn trailing zeroes infactorial]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+119|[Painters Partition Problem:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+120|[ROTI-Prata SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+121|[DoubleHelix SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+122|[Subset Sums]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+123|[Find the inversion count]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+124|[Implement Merge-sort in-place]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+125|[Partitioning and Sorting Arrays with Many Repeated Entries]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
  	 
 ### LinkedList
 S. No.|Problem|Reference|C++|Java|Python|Other languages
--|-|-|-|-|-|-	 
-LinkedList	Write a Program to reverse the Linked List. (Both Iterative and recursive)
-LinkedList	Reverse a Linked List in group of Given Size. [Very Imp]
-LinkedList	Write a program to Detect loop in a linked list.
-LinkedList	Write a program to Delete loop in a linked list.
-LinkedList	Find the starting point of the loop. 
-LinkedList	Remove Duplicates in a sorted Linked List.
-LinkedList	Remove Duplicates in a Un-sorted Linked List.
-LinkedList	Write a Program to Move the last element to Front in a Linked List.
-LinkedList	Add “1” to a number represented as a Linked List.
-LinkedList	Add two numbers represented by linked lists.
-LinkedList	Intersection of two Sorted Linked List.
-LinkedList	Intersection Point of two Linked Lists.
-LinkedList	Merge Sort For Linked lists.[Very Important]
-LinkedList	Quicksort for Linked Lists.[Very Important]
-LinkedList	Find the middle Element of a linked list.
-LinkedList	Check if a linked list is a circular linked list.
-LinkedList	Split a Circular linked list into two halves.
-LinkedList	Write a Program to check whether the Singly Linked list is a palindrome or not.
-LinkedList	Deletion from a Circular Linked List.
-LinkedList	Reverse a Doubly Linked list.
-LinkedList	Find pairs with a given sum in a DLL.
-LinkedList	Count triplets in a sorted DLL whose sum is equal to given value “X”.
-LinkedList	Sort a “k”sorted Doubly Linked list.[Very IMP]
-LinkedList	Rotate DoublyLinked list by N nodes.
-LinkedList	Rotate a Doubly Linked list in group of Given Size.[Very IMP]
-LinkedList	Can we reverse a linked list in less than O(n) ?
-LinkedList	Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?
-LinkedList	Flatten a Linked List
-LinkedList	Sort a LL of 0's, 1's and 2's
-LinkedList	Clone a linked list with next and random pointer
-LinkedList	Merge K sorted Linked list
-LinkedList	Multiply 2 no. represented by LL
-LinkedList	Delete nodes which have a greater value on right side
-LinkedList	Segregate even and odd nodes in a Linked List
-LinkedList	Program for n’th node from the end of a Linked List
-LinkedList	Find the first non-repeating character from a stream of characters
- 	 
+-|-|-|-|-|-|-	
+126|[Write a Program to reverse the Linked List. (Both Iterative and recursive)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+127|[Reverse a Linked List in group of Given Size. [Very Imp]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+128|[Write a program to Remove loop in a linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+129|[Write a program to Delete loop in a linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+130|[Find the starting point of the loop]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+131|[Remove Duplicates in a sorted Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+132|[Remove Duplicates in a Un-sorted Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+133|[Write a Program to Move the last element to Front in a Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+134|[Add “1” to a number represented as a Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+135|[Add two numbers represented by linked lists]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+136|[Intersection of two Sorted Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+137|[Intersection Point of two Linked Lists]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+138|[Merge Sort For Linked lists.[Very Important]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+139|[Quicksort for Linked Lists.[Very Important]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+140|[Find the middle Element of a linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+141|[Check if a linked list is a circular linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+142|[Split a Circular linked list into two halves]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+143|[Write a Program to check whether the Singly Linked list is a palindrome or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+144|[Deletion from a Circular Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+145|[Reverse a Doubly Linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+146|[Find pairs with a given sum in a DLL]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+147|[Count triplets in a sorted DLL whose sum is equal to given value “X”]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+148|[Sort a “k”sorted Doubly Linked list.[Very IMP]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+149|[Rotate DoublyLinked list by N nodes]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+150|[Rotate a Doubly Linked list in group of Given Size.[Very IMP]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+151|[Can we reverse a linked list in less than O(n) ?]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+152|[Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+153|[Flatten a Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+154|[Sort a LL of 0's, 1's and 2's]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+155|[Clone a linked list with next and random pointer]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+156|[Merge K sorted Linked list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+157|[Multiply 2 no. represented by LL]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+158|[Delete nodes which have a greater value on right side]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+159|[Segregate even and odd nodes in a Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+160|[Program for n’th node from the end of a Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+161|[Find the first non-repeating character from a stream of characters]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### Binary Trees
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-Binary Trees	Level order traversal
-Binary Trees	Reverse Level Order traversal
-Binary Trees	Height of a tree
-Binary Trees	Diameter of a tree
-Binary Trees	Mirror of a tree
-Binary Trees	Inorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Preorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Postorder Traversal of a tree both using recursion and Iteration
-Binary Trees	Left View of a tree
-Binary Trees	Right View of Tree
-Binary Trees	Top View of a tree
-Binary Trees	Bottom View of a tree
-Binary Trees	Zig-Zag traversal of a binary tree
-Binary Trees	Check if a tree is balanced or not
-Binary Trees	Diagnol Traversal of a Binary tree
-Binary Trees	Boundary traversal of a Binary tree
-Binary Trees	Construct Binary Tree from String with Bracket Representation
-Binary Trees	Convert Binary tree into Doubly Linked List
-Binary Trees	Convert Binary tree into Sum tree
-Binary Trees	Construct Binary tree from Inorder and preorder traversal
-Binary Trees	Find minimum swaps required to convert a Binary tree into BST
-Binary Trees	Check if Binary tree is Sum tree or not
-Binary Trees	Check if all leaf nodes are at same level or not
-Binary Trees	Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]
-Binary Trees	Check if 2 trees are mirror or not
-Binary Trees	Sum of Nodes on the Longest path from root to leaf node
-Binary Trees	Check if given graph is tree or not. [ IMP ]
-Binary Trees	Find Largest subtree sum in a tree
-Binary Trees	Maximum Sum of nodes in Binary tree such that no two are adjacent
-Binary Trees	Print all "K" Sum paths in a Binary tree
-Binary Trees	Find LCA in a Binary tree
-Binary Trees	Find distance between 2 nodes in a Binary tree
-Binary Trees	Kth Ancestor of node in a Binary tree
-Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]
-Binary Trees	Tree Isomorphism Problem
- 	 
+162|[Level order traversal]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+163|[Reverse Level Order traversal]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+164|[Height of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+165|[Diameter of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+166|[Mirror of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+167|[Inorder Traversal of a tree both using recursion and Iteration]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+168|[Preorder Traversal of a tree both using recursion and Iteration]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+169|[Postorder Traversal of a tree both using recursion and Iteration]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+170|[Left View of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+171|[Right View of Tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+172|[Top View of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+173|[Bottom View of a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+174|[Zig-Zag traversal of a binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+175|[Check if a tree is balanced or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+176|[Diagnol Traversal of a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+177|[Boundary traversal of a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+178|[Construct Binary Tree from String with Bracket Representation]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+179|[Convert Binary tree into Doubly Linked List]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+180|[Convert Binary tree into Sum tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+181|[Construct Binary tree from Inorder and preorder traversal]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+182|[Find minimum swaps required to convert a Binary tree into BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+183|[Check if Binary tree is Sum tree or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+184|[Check if all leaf nodes are at same level or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+185|[Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+186|[Check if 2 trees are mirror or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+187|[Sum of Nodes on the Longest path from root to leaf node]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+188|[Check if given graph is tree or not. [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+189|[Find Largest subtree sum in a tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+190|[Maximum Sum of nodes in Binary tree such that no two are adjacent]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+191|[Print all "K" Sum paths in a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+192|[Find LCA in a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+193|[Find distance between 2 nodes in a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+194|[Kth Ancestor of node in a Binary tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+195|[Find all Duplicate subtrees in a Binary tree [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+196|[Tree Isomorphism Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### Binary Search Trees
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-Binary Search Trees	Find a value in a BST
-Binary Search Trees	Deletion of a node in a BST
-Binary Search Trees	Find min and max value in a BST
-Binary Search Trees	Find inorder successor and inorder predecessor in a BST
-Binary Search Trees	Check if a tree is a BST or not
-Binary Search Trees	Populate Inorder successor of all nodes
-Binary Search Trees	Find LCA of 2 nodes in a BST
-Binary Search Trees	Construct BST from preorder traversal
-Binary Search Trees	Convert Binary tree into BST
-Binary Search Trees	Convert a normal BST into a Balanced BST
-Binary Search Trees	Merge two BST [ V.V.V>IMP ]
-Binary Search Trees	Find Kth largest element in a BST
-Binary Search Trees	Find Kth smallest element in a BST
-Binary Search Trees	Count pairs from 2 BST whose sum is equal to given value "X"
-Binary Search Trees	Find the median of BST in O(n) time and O(1) space
-Binary Search Trees	Count BST ndoes that lie in a given range
-Binary Search Trees	Replace every element with the least greater element on its right
-Binary Search Trees	Given "n" appointments, find the conflicting appointments
-Binary Search Trees	Check preorder is valid or not
-Binary Search Trees	Check whether BST contains Dead end
-Binary Search Trees	Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
-Binary Search Trees	Flatten BST to sorted list
- 	 
+197|[Find a value in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+198|[Deletion of a node in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+199|[Find min and max value in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+200|[Find inorder successor and inorder predecessor in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+201|[Check if a tree is a BST or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+202|[Populate Inorder successor of all nodes]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+203|[Find LCA of 2 nodes in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+204|[Construct BST from preorder traversal]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+205|[Convert Binary tree into BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+206|[Convert a normal BST into a Balanced BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+207|[Merge two BST [ V.V.V>IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+208|[Find Kth largest element in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+209|[Find Kth smallest element in a BST]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+210|[Count pairs from 2 BST whose sum is equal to given value "X"]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+211|[Find the median of BST in O(n) time and O(1) space]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+212|[Count BST ndoes that lie in a given range]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+213|[Replace every element with the least greater element on its right]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+214|[Given "n" appointments, find the conflicting appointments]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+215|[Check preorder is valid or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+216|[Check whether BST contains Dead end]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+217|[Largest BST in a Binary Tree [ V.V.V.V.V IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+218|[Flatten BST to sorted list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### Greedy
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-Greedy	Activity Selection Problem
-Greedy	Job SequencingProblem
-Greedy	Huffman Coding
-Greedy	Water Connection Problem
-Greedy	Fractional Knapsack Problem
-Greedy	Greedy Algorithm to find Minimum number of Coins
-Greedy	Maximum trains for which stoppage can be provided
-Greedy	Minimum Platforms Problem
-Greedy	Buy Maximum Stocks if i stocks can be bought on i-th day
-Greedy	Find the minimum and maximum amount to buy all N candies
-Greedy	Minimize Cash Flow among a given set of friends who have borrowed money from each other
-Greedy	Minimum Cost to cut a board into squares
-Greedy	Check if it is possible to survive on Island
-Greedy	Find maximum meetings in one room
-Greedy	Maximum product subset of an array
-Greedy	Maximize array sum after K negations
-Greedy	Maximize the sum of arr[i]*i
-Greedy	Maximum sum of absolute difference of an array
-Greedy	Maximize sum of consecutive differences in a circular array
-Greedy	Minimum sum of absolute difference of pairs of two arrays
-Greedy	Program for Shortest Job First (or SJF) CPU Scheduling
-Greedy	Program for Least Recently Used (LRU) Page Replacement algorithm
-Greedy	Smallest subset with sum greater than all other elements
-Greedy	Chocolate Distribution Problem
-Greedy	DEFKIN -Defense of a Kingdom
-Greedy	DIEHARD -DIE HARD
-Greedy	GERGOVIA -Wine trading in Gergovia
-Greedy	Picking Up Chicks
-Greedy	CHOCOLA –Chocolate
-Greedy	ARRANGE -Arranging Amplifiers
-Greedy	K Centers Problem
-Greedy	Minimum Cost of ropes
-Greedy	Find smallest number with given number of digits and sum of digits
-Greedy	Rearrange characters in a string such that no two adjacent are same
-Greedy	Find maximum sum possible equal sum of three stacks
- 	 
+219|[Activity Selection Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+220|[Job SequencingProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+221|[Huffman Coding]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+222|[Water Connection Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+223|[Fractional Knapsack Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+224|[Greedy Algorithm to find Minimum number of Coins]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+225|[Maximum trains for which stoppage can be provided]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+226|[Minimum Platforms Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+227|[Buy Maximum Stocks if i stocks can be bought on i-th day]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+228|[Find the minimum and maximum amount to buy all N candies]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+229|[Minimize Cash Flow among a given set of friends who have borrowed money from each other]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+230|[Minimum Cost to cut a board into squares]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+231|[Check if it is possible to survive on Island]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+232|[Find maximum meetings in one room]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+233|[Maximum product subset of an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+234|[Maximize array sum after K negations]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+235|[Maximize the sum of arr[i] * i]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+236|[Maximum sum of absolute difference of an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+237|[Maximize sum of consecutive differences in a circular array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+238|[Minimum sum of absolute difference of pairs of two arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+239|[Program for Shortest Job First (or SJF) CPU Scheduling]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+240|[Program for Least Recently Used (LRU) Page Replacement algorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+241|[Smallest subset with sum greater than all other elements]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+242|[Chocolate Distribution Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+243|[DEFKIN -Defense of a Kingdom]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+244|[DIEHARD -DIE HARD]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+245|[GERGOVIA -Wine trading in Gergovia]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+246|[Picking Up Chicks]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+247|[CHOCOLA –Chocolate]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+248|[ARRANGE -Arranging Amplifiers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+249|[K Centers Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+250|[Minimum Cost of ropes]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+251|[Find smallest number with given number of digits and sum of digits]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+252|[Rearrange characters in a string such that no two adjacent are same]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+253|[Find maximum sum possible equal sum of three stacks]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### BackTracking
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-BackTracking	Rat in a maze Problem
-BackTracking	Printing all solutions in N-Queen Problem
-BackTracking	Word Break Problem using Backtracking
-BackTracking	Remove Invalid Parentheses
-BackTracking	Sudoku Solver
-BackTracking	M Coloring Problem
-BackTracking	Print all palindromic partitions of a string
-BackTracking	Subset Sum Problem
-BackTracking	The Knight’s tour problem
-BackTracking	Tug of War
-BackTracking	Find shortest safe route in a path with landmines
-BackTracking	Combinational Sum
-BackTracking	Find Maximum number possible by doing at-most K swaps
-BackTracking	Print all permutations of a string
-BackTracking	Find if there is a path of more than k length from a source
-BackTracking	Longest Possible Route in a Matrix with Hurdles
-BackTracking	Print all possible paths from top left to bottom right of a mXn matrix
-BackTracking	Partition of a set intoK subsets with equal sum
-BackTracking	Find the K-th Permutation Sequence of first N natural numbers
+254|[Rat in a maze Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+255|[Printing all solutions in N-Queen Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+256|[Word Break Problem using Backtracking]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+257|[Remove Invalid Parentheses]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+258|[Sudoku Solver]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+259|[M Coloring Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+260|[Print all palindromic partitions of a string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+261|[Subset Sum Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+262|[The Knight’s tour problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+263|[Tug of War]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+264|[Find shortest safe route in a path with landmines]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+265|[Combinational Sum]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+266|[Find Maximum number possible by doing at-most K swaps]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+267|[Print all permutations of a string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+268|[Find if there is a path of more than k length from a source]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+269|[Longest Possible Route in a Matrix with Hurdles]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+270|[Print all possible paths from top left to bottom right of a mXn matrix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+271|[Partition of a set intoK subsets with equal sum]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+272|[Find the K-th Permutation Sequence of first N natural numbers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
  	 
 ### Stacks & Queues
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-Stacks & Queues	Implement Stack from Scratch
-Stacks & Queues	Implement Queue from Scratch
-Stacks & Queues	Implement 2 stack in an array
-Stacks & Queues	Find the middle element of a stack
-Stacks & Queues	Implement "N" stacks in an Array
-Stacks & Queues	Check the expression has valid or Balanced parenthesis or not.
-Stacks & Queues	Reverse a String using Stack
-Stacks & Queues	Design a Stack that supports getMin() in O(1) time and O(1) extra space.
-Stacks & Queues	Find the next Greater element
-Stacks & Queues	The celebrity Problem
-Stacks & Queues	Arithmetic Expression evaluation
-Stacks & Queues	Evaluation of Postfix expression
-Stacks & Queues	Implement a method to insert an element at its bottom without using any other data structure.
-Stacks & Queues	Reverse a stack using recursion
-Stacks & Queues	Sort a Stack using recursion
-Stacks & Queues	Merge Overlapping Intervals
-Stacks & Queues	Largest rectangular Area in Histogram
-Stacks & Queues	Length of the Longest Valid Substring
-Stacks & Queues	Expression contains redundant bracket or not
-Stacks & Queues	Implement Stack using Queue
-Stacks & Queues	Implement Stack using Deque
-Stacks & Queues	Stack Permutations (Check if an array is stack permutation of other)
-Stacks & Queues	Implement Queue using Stack
-Stacks & Queues	Implement "n" queue in an array
-Stacks & Queues	Implement a Circular queue
-Stacks & Queues	LRU Cache Implementationa
-Stacks & Queues	Reverse a Queue using recursion
-Stacks & Queues	Reverse the first “K” elements of a queue
-Stacks & Queues	Interleave the first half of the queue with second half
-Stacks & Queues	Find the first circular tour that visits all Petrol Pumps
-Stacks & Queues	Minimum time required to rot all oranges
-Stacks & Queues	Distance of nearest cell having 1 in a binary matrix
-Stacks & Queues	First negative integer in every window of size “k”
-Stacks & Queues	Check if all levels of two trees are anagrams or not.
-Stacks & Queues	Sum of minimum and maximum elements of all subarrays of size “k”.
-Stacks & Queues	Minimum sum of squares of character counts in a given string after removing “k” characters.
-Stacks & Queues	Queue based approach or first non-repeating character in a stream.
-Stacks & Queues	Next Smaller Element
- 	 
+273|[Implement Stack from Scratch]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+274|[Implement Queue from Scratch]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+275|[Implement 2 stack in an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+276|[Find the middle element of a stack]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+277|[Implement "N" stacks in an Array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+278|[Check the expression has valid or Balanced parenthesis or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+279|[Reverse a String using Stack]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+280|[Design a Stack that supports getMin() in O(1) time and O(1) extra space]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+281|[Find the next Greater element]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+282|[The celebrity Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+283|[Arithmetic Expression evaluation]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+284|[Evaluation of Postfix expression]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+285|[Implement a method to insert an element at its bottom without using any other data structure]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+286|[Reverse a stack using recursion]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+287|[Sort a Stack using recursion]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+288|[Merge Overlapping Intervals]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+289|[Largest rectangular Area in Histogram]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+290|[Length of the Longest Valid Substring]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+291|[Expression contains redundant bracket or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+292|[Implement Stack using Queue]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+293|[Implement Stack using Deque]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+294|[Stack Permutations (Check if an array is stack permutation of other)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+295|[Implement Queue using Stack]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+296|[Implement "n" queue in an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+297|[Implement a Circular queue]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+298|[LRU Cache Implementationa]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+299|[Reverse a Queue using recursion]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+300|[Reverse the first “K” elements of a queue]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+301|[Interleave the first half of the queue with second half]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+302|[Find the first circular tour that visits all Petrol Pumps]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+303|[Minimum time required to rot all oranges]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+304|[Distance of nearest cell having 1 in a binary matrix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+305|[First negative integer in every window of size “k”]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+306|[Check if all levels of two trees are anagrams or not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+307|[Sum of minimum and maximum elements of all subarrays of size “k”]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+308|[Minimum sum of squares of character counts in a given string after removing “k” characters]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+309|[Queue based approach or first non-repeating character in a stream]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+310|[Next Smaller Element]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### Heap
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	
-Heap	Implement a Maxheap/MinHeap using arrays and recursion.
-Heap	Sort an Array using heap. (HeapSort)
-Heap	Maximum of all subarrays of size k.
-Heap	“k” largest element in an array
-Heap	Kth smallest and largest element in an unsorted array
-Heap	Merge “K” sorted arrays. [ IMP ]
-Heap	Merge 2 Binary Max Heaps
-Heap	Kth largest sum continuous subarrays
-Heap	Leetcode- reorganize strings
-Heap	Merge “K” Sorted Linked Lists [V.IMP]
-Heap	Smallest range in “K” Lists
-Heap	Median in a stream of Integers
-Heap	Check if a Binary Tree is Heap
-Heap	Connect “n” ropes with minimum cost
-Heap	Convert BST to Min Heap
-Heap	Convert min heap to max heap
-Heap	Rearrange characters in a string such that no two adjacent are same.
-Heap	Minimum sum of two numbers formed from digits of an array
- 	 
+311|[Implement a Maxheap/MinHeap using arrays and recursion]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+312|[Sort an Array using heap. (HeapSort)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+313|[Maximum of all subarrays of size k]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+314|[“k” largest element in an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+315|[Kth smallest and largest element in an unsorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+316|[Merge “K” sorted arrays. [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+317|[Merge 2 Binary Max Heaps]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+318|[Kth largest sum continuous subarrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+319|[Leetcode- reorganize strings]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+320|[Merge “K” Sorted Linked Lists [V.IMP]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+321|[Smallest range in “K” Lists]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+322|[Median in a stream of Integers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+323|[Check if a Binary Tree is Heap]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+324|[Connect “n” ropes with minimum cost]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+325|[Convert BST to Min Heap]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+326|[Convert min heap to max heap]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+327|[Rearrange characters in a string such that no two adjacent are same]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+328|[Minimum sum of two numbers formed from digits of an array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
 ### Graph
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-Graph	Create a Graph, print it
-Graph	Implement BFS algorithm
-Graph	Implement DFS Algo
-Graph	Detect Cycle in Directed Graph using BFS/DFS Algo
-Graph	Detect Cycle in UnDirected Graph using BFS/DFS Algo
-Graph	Search in a Maze
-Graph	Minimum Step by Knight
-Graph	Flood fill algo
-Graph	Clone a graph
-Graph	Making wired Connections
-Graph	Word Ladder
-Graph	Dijkstra algo
-Graph	Implement Topological Sort
-Graph	Minimum time taken by each job to be completed given by a Directed Acyclic Graph
-Graph	Find whether it is possible to finish all tasks or not from given dependencies
-Graph	Find the no. of Isalnds
-Graph	Given a sorted Dictionary of an Alien Language, find order of characters
-Graph	Implement Kruksal’sAlgorithm
-Graph	Implement Prim’s Algorithm
-Graph	Total no. of Spanning tree in a graph
-Graph	Implement Bellman Ford Algorithm
-Graph	Implement Floyd warshallAlgorithm
-Graph	Travelling Salesman Problem
-Graph	Graph ColouringProblem
-Graph	Snake and Ladders Problem
-Graph	Find bridge in a graph
-Graph	Count Strongly connected Components(Kosaraju Algo)
-Graph	Check whether a graph is Bipartite or Not
-Graph	Detect Negative cycle in a graph
-Graph	Longest path in a Directed Acyclic Graph
-Graph	Journey to the Moon
-Graph	Cheapest Flights Within K Stops
-Graph	Oliver and the Game
-Graph	Water Jug problem using BFS
-Graph	Water Jug problem using DFS
-Graph	Find if there is a path of more thank length from a source
-Graph	M-ColouringProblem
-Graph	Minimum edges to reverse o make path from source to destination
-Graph	Paths to travel each nodes using each edge(Seven Bridges)
-Graph	Vertex Cover Problem
-Graph	Chinese Postman or Route Inspection
-Graph	Number of Triangles in a Directed and Undirected Graph
-Graph	Minimise the cashflow among a given set of friends who have borrowed money from each other
-Graph	Two Clique Problem
+329|[Create a Graph, print it]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+330|[Implement BFS algorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+331|[Implement DFS Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+332|[Detect Cycle in Directed Graph using BFS/DFS Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+333|[Detect Cycle in UnDirected Graph using BFS/DFS Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+334|[Search in a Maze]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+335|[Minimum Step by Knight]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+336|[Flood fill algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+337|[Clone a graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+338|[Making wired Connections]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+339|[Word Ladder]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+340|[Dijkstra algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+341|[Implement Topological Sort]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+342|[Minimum time taken by each job to be completed given by a Directed Acyclic Graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+343|[Find whether it is possible to finish all tasks or not from given dependencies]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+344|[Find the no. of Islands]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+345|[Given a sorted Dictionary of an Alien Language, find order of characters]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+346|[Implement Kruksal’sAlgorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+347|[Implement Prim’s Algorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+348|[Total no. of Spanning tree in a graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+349|[Implement Bellman Ford Algorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+350|[Implement Floyd warshallAlgorithm]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+351|[Travelling Salesman Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+352|[Graph ColouringProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+353|[Snake and Ladders Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+354|[Find bridge in a graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+355|[Count Strongly connected Components(Kosaraju Algo)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+356|[Check whether a graph is Bipartite or Not]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+357|[Detect Negative cycle in a graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+358|[Longest path in a Directed Acyclic Graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+359|[Journey to the Moon]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+360|[Cheapest Flights Within K Stops]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+361|[Oliver and the Game]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+362|[Water Jug problem using BFS]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+363|[Water Jug problem using DFS]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+364|[Find if there is a path of more thank length from a source]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+365|[M-ColouringProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+366|[Minimum edges to reverse o make path from source to destination]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+367|[Paths to travel each nodes using each edge(Seven Bridges)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+368|[Vertex Cover Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+369|[Chinese Postman or Route Inspection]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+370|[Number of Triangles in a Directed and Undirected Graph]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+371|[Minimise the cashflow among a given set of friends who have borrowed money from each other]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+372|[Two Clique Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
  	 
 ### Trie
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-Trie	Construct a trie from scratch
-Trie	Find shortest unique prefix for every word in a given list
-Trie	Word Break Problem | (Trie solution)
-Trie	Given a sequence of words, print all anagrams together
-Trie	Implement a Phone Directory
-Trie	Print unique rows in a given boolean matrix
- 	 
+373|[Construct a trie from scratch]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+374|[Find shortest unique prefix for every word in a given list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+375|[Word Break Problem | (Trie solution)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+376|[Given a sequence of words, print all anagrams together]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+377|[Implement a Phone Directory]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+378|[Print unique rows in a given boolean matrix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+
 ### Dynamic Programming
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-Dynamic Programming	Coin ChangeProblem
-Dynamic Programming	Knapsack Problem
-Dynamic Programming	Binomial CoefficientProblem
-Dynamic Programming	Permutation CoefficientProblem
-Dynamic Programming	Program for nth Catalan Number
-Dynamic Programming	Matrix Chain Multiplication 
-Dynamic Programming	Edit Distance
-Dynamic Programming	Subset Sum Problem
-Dynamic Programming	Friends Pairing Problem
-Dynamic Programming	Gold Mine Problem
-Dynamic Programming	Assembly Line SchedulingProblem
-Dynamic Programming	Painting the Fenceproblem
-Dynamic Programming	Maximize The Cut Segments
-Dynamic Programming	Longest Common Subsequence
-Dynamic Programming	Longest Repeated Subsequence
-Dynamic Programming	Longest Increasing Subsequence
-Dynamic Programming	Space Optimized Solution of LCS
-Dynamic Programming	LCS (Longest Common Subsequence) of three strings
-Dynamic Programming	Maximum Sum Increasing Subsequence
-Dynamic Programming	Count all subsequences having product less than K
-Dynamic Programming	Longest subsequence such that difference between adjacent is one
-Dynamic Programming	Maximum subsequence sum such that no three are consecutive
-Dynamic Programming	Egg Dropping Problem
-Dynamic Programming	Maximum Length Chain of Pairs
-Dynamic Programming	Maximum size square sub-matrix with all 1s
-Dynamic Programming	Maximum sum of pairs with specific difference
-Dynamic Programming	Min Cost PathProblem
-Dynamic Programming	Maximum difference of zeros and ones in binary string
-Dynamic Programming	Minimum number of jumps to reach end
-Dynamic Programming	Minimum cost to fill given weight in a bag
-Dynamic Programming	Minimum removals from array to make max –min <= K
-Dynamic Programming	Longest Common Substring
-Dynamic Programming	Count number of ways to reacha given score in a game
-Dynamic Programming	Count Balanced Binary Trees of Height h
-Dynamic Programming	LargestSum Contiguous Subarray [V>V>V>V IMP ]
-Dynamic Programming	Smallest sum contiguous subarray
-Dynamic Programming	Unbounded Knapsack (Repetition of items allowed)
-Dynamic Programming	Word Break Problem
-Dynamic Programming	Largest Independent Set Problem
-Dynamic Programming	Partition problem
-Dynamic Programming	Longest Palindromic Subsequence
-Dynamic Programming	Count All Palindromic Subsequence in a given String
-Dynamic Programming	Longest Palindromic Substring
-Dynamic Programming	Longest alternating subsequence
-Dynamic Programming	Weighted Job Scheduling
-Dynamic Programming	Coin game winner where every player has three choices
-Dynamic Programming	Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]
-Dynamic Programming	Maximum profit by buying and selling a share at most twice [ IMP ]
-Dynamic Programming	Optimal Strategy for a Game
-Dynamic Programming	Optimal Binary Search Tree
-Dynamic Programming	Palindrome PartitioningProblem
-Dynamic Programming	Word Wrap Problem
-Dynamic Programming	Mobile Numeric Keypad Problem [ IMP ]
-Dynamic Programming	Boolean Parenthesization Problem
-Dynamic Programming	Largest rectangular sub-matrix whose sum is 0
-Dynamic Programming	Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]
-Dynamic Programming	Maximum sum rectangle in a 2D matrix
-Dynamic Programming	Maximum profit by buying and selling a share at most k times
-Dynamic Programming	Find if a string is interleaved of two other strings
-Dynamic Programming	Maximum Length of Pair Chain
- 	 
+379|[Coin ChangeProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+380|[Knapsack Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+381|[Binomial CoefficientProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+382|[Permutation CoefficientProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+383|[Program for nth Catalan Number]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+384|[Matrix Chain Multiplication ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+385|[Edit Distance]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+386|[Subset Sum Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+387|[Friends Pairing Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+388|[Gold Mine Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+389|[Assembly Line SchedulingProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+390|[Painting the Fenceproblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+391|[Maximize The Cut Segments]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+392|[Longest Common Subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+393|[Longest Repeated Subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+394|[Longest Increasing Subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+395|[Space Optimized Solution of LCS]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+396|[LCS (Longest Common Subsequence) of three strings]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+397|[Maximum Sum Increasing Subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+398|[Count all subsequences having product less than K]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+399|[Longest subsequence such that difference between adjacent is one]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+400|[Maximum subsequence sum such that no three are consecutive]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+401|[Egg Dropping Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+402|[Maximum Length Chain of Pairs]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+403|[Maximum size square sub-matrix with all 1s]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+404|[Maximum sum of pairs with specific difference]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+405|[Min Cost PathProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+406|[Maximum difference of zeros and ones in binary string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+407|[Minimum number of jumps to reach end]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+408|[Minimum cost to fill given weight in a bag]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+409|[Minimum removals from array to make max –min <= K]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+410|[Longest Common Substring]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+411|[Count number of ways to reacha given score in a game]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+412|[Count Balanced Binary Trees of Height h]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+413|[LargestSum Contiguous Subarray [V>V>V>V IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+414|[Smallest sum contiguous subarray]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+415|[Unbounded Knapsack (Repetition of items allowed)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+416|[Word Break Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+417|[Largest Independent Set Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+418|[Partition problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+419|[Longest Palindromic Subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+420|[Count All Palindromic Subsequence in a given String]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+421|[Longest Palindromic Substring]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+422|[Longest alternating subsequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+423|[Weighted Job Scheduling]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+424|[Coin game winner where every player has three choices]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+425|[Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+426|[Maximum profit by buying and selling a share at most twice [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+427|[Optimal Strategy for a Game]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+428|[Optimal Binary Search Tree]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+429|[Palindrome PartitioningProblem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+430|[Word Wrap Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+431|[Mobile Numeric Keypad Problem [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+432|[Boolean Parenthesization Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+433|[Largest rectangular sub-matrix whose sum is 0]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+434|[Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+435|[Maximum sum rectangle in a 2D matrix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+436|[Maximum profit by buying and selling a share at most k times]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+437|[Find if a string is interleaved of two other strings]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+438|[Maximum Length of Pair Chain]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+
 ### Bit Manipulation
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-Bit Manipulation	Count set bits in an integer
-Bit Manipulation	Find the two non-repeating elements in an array of repeating elements
-Bit Manipulation	Count number of bits to be flipped to convert A to B
-Bit Manipulation	Count total set bits in all numbers from 1 to n
-Bit Manipulation	Program to find whether a no is power of two
-Bit Manipulation	Find position of the only set bit
-Bit Manipulation	Copy set bits in a range
-Bit Manipulation	Divide two integers without using multiplication, division and mod operator
-Bit Manipulation	Calculate square of a number without using *, / and pow()
-Bit Manipulation	Power Set
+439|[Count set bits in an integer]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+440|[Find the two non-repeating elements in an array of repeating elements]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+441|[Count number of bits to be flipped to convert A to B]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+442|[Count total set bits in all numbers from 1 to n]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+443|[Program to find whether a no is power of two]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+444|[Find position of the only set bit]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+445|[Copy set bits in a range]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+446|[Divide two integers without using multiplication, division and mod operator]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+447|[Calculate square of a number without using * , / and pow()]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+448|[Power Set]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
 
 ## Contributors
-
