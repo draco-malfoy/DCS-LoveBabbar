@@ -113,21 +113,21 @@ String	Recursively print all sentences that can be formed from list of word list
 Searching & Sorting	Find first and last positions of an element in a sorted array
 Searching & Sorting	Find a Fixed Point (Value equal to index) in a given array
 Searching & Sorting	Search in a rotated sorted array
-Searching & Sorting	square root of an integer
+Searching & Sorting	Square root of an integer
 Searching & Sorting	Maximum and minimum of an array using minimum number of comparisons
 Searching & Sorting	Optimum location of point to minimize total distance
 Searching & Sorting	Find the repeating and the missing
-Searching & Sorting	find majority element
+Searching & Sorting	Find majority element
 Searching & Sorting	Searching in an array where adjacent differ by at most k
-Searching & Sorting	find a pair with a given difference
-Searching & Sorting	find four elements that sum to a given value
-Searching & Sorting	maximum sum such that no 2 elements are adjacent
+Searching & Sorting	Find a pair with a given difference
+Searching & Sorting	Find four elements that sum to a given value
+Searching & Sorting	Maximum sum such that no 2 elements are adjacent
 Searching & Sorting	Count triplet with sum smaller than a given value
-Searching & Sorting	merge 2 sorted arrays
-Searching & Sorting	print all subarrays with 0 sum
+Searching & Sorting	Merge 2 sorted arrays
+Searching & Sorting	Print all subarrays with 0 sum
 Searching & Sorting	Product array Puzzle
 Searching & Sorting	Sort array according to count of set bits
-Searching & Sorting	minimum no. of swaps required to sort the array
+Searching & Sorting	Minimum no. of swaps required to sort the array
 Searching & Sorting	Bishu and Soldiers
 Searching & Sorting	Rasta and Kheshtak
 Searching & Sorting	Kth smallest number again
@@ -143,7 +143,7 @@ Searching & Sorting	Painters Partition Problem:
 Searching & Sorting	ROTI-Prata SPOJ
 Searching & Sorting	DoubleHelix SPOJ
 Searching & Sorting	Subset Sums
-Searching & Sorting	Findthe inversion count
+Searching & Sorting	Find the inversion count
 Searching & Sorting	Implement Merge-sort in-place
 Searching & Sorting	Partitioning and Sorting Arrays with Many Repeated Entries
  	 
@@ -186,7 +186,7 @@ LinkedList	Program for n’th node from the end of a Linked List
 LinkedList	Find the first non-repeating character from a stream of characters
  	 
  	 
-Binary Trees	level order traversal
+Binary Trees	Level order traversal
 Binary Trees	Reverse Level Order traversal
 Binary Trees	Height of a tree
 Binary Trees	Diameter of a tree
@@ -223,7 +223,7 @@ Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]
 Binary Trees	Tree Isomorphism Problem
  	 
  	 
-Binary Search Trees	Fina a value in a BST
+Binary Search Trees	Find a value in a BST
 Binary Search Trees	Deletion of a node in a BST
 Binary Search Trees	Find min and max value in a BST
 Binary Search Trees	Find inorder successor and inorder predecessor in a BST
@@ -289,7 +289,7 @@ BackTracking	Printing all solutions in N-Queen Problem
 BackTracking	Word Break Problem using Backtracking
 BackTracking	Remove Invalid Parentheses
 BackTracking	Sudoku Solver
-BackTracking	m Coloring Problem
+BackTracking	M Coloring Problem
 BackTracking	Print all palindromic partitions of a string
 BackTracking	Subset Sum Problem
 BackTracking	The Knight’s tour problem
@@ -308,7 +308,7 @@ BackTracking	Find the K-th Permutation Sequence of first N natural numbers
 Stacks & Queues	Implement Stack from Scratch
 Stacks & Queues	Implement Queue from Scratch
 Stacks & Queues	Implement 2 stack in an array
-Stacks & Queues	find the middle element of a stack
+Stacks & Queues	Find the middle element of a stack
 Stacks & Queues	Implement "N" stacks in an Array
 Stacks & Queues	Check the expression has valid or Balanced parenthesis or not.
 Stacks & Queues	Reverse a String using Stack
@@ -372,10 +372,10 @@ Graph	Detect Cycle in Directed Graph using BFS/DFS Algo
 Graph	Detect Cycle in UnDirected Graph using BFS/DFS Algo
 Graph	Search in a Maze
 Graph	Minimum Step by Knight
-Graph	flood fill algo
+Graph	Flood fill algo
 Graph	Clone a graph
 Graph	Making wired Connections
-Graph	word Ladder
+Graph	Word Ladder
 Graph	Dijkstra algo
 Graph	Implement Topological Sort
 Graph	Minimum time taken by each job to be completed given by a Directed Acyclic Graph
@@ -399,7 +399,7 @@ Graph	Journey to the Moon
 Graph	Cheapest Flights Within K Stops
 Graph	Oliver and the Game
 Graph	Water Jug problem using BFS
-Graph	Water Jug problem using BFS
+Graph	Water Jug problem using DFS
 Graph	Find if there is a path of more thank length from a source
 Graph	M-ColouringProblem
 Graph	Minimum edges to reverse o make path from source to destination
