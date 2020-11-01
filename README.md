@@ -67,95 +67,95 @@ S. No.|Problem|Reference|C++|Java|Python|Other languages
 45|[Kth smallest element in a row-cpumn wise sorted matrix](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix)|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Kth%20smallest%20element%20in%20a%20row-cpumn%20wise%20sorted%20matrix/Other%20Languages)
 46|[Common elements in all rows of a given matrix](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix)|[GeeksForGeeks](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Matrix/Common%20elements%20in%20all%20rows%20of%20a%20given%20matrix/Other%20Languages)
 
- 	 
-40|[]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
-
 ### String
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-String	Reverse a String
-String	Check whether a String is Palindrome or not
-String	Find Duplicate characters in a string
-String	Why strings are immutable in Java?
-String	Write a Code to check whether one string is a rotation of another
-String	Write a Program to check whether a string is a valid shuffle of two strings or not
-String	Count and Say problem
-String	Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]
-String	Find Longest Recurring Subsequence in String
-String	Print all Subsequences of a string.
-String	Print all the permutations of the given string
-String	Split the Binary string into two substring with equal 0’s and 1’s
-String	Word Wrap Problem [VERY IMP].
-String	EDIT Distance [Very Imp]
-String	Find next greater number with same set of digits. [Very Very IMP]
-String	Balanced Parenthesis problem.[Imp]
-String	Word break Problem[ Very Imp]
-String	Rabin Karp Algo
-String	KMP Algo
-String	Convert a Sentence into its equivalent mobile numeric keypad sequence.
-String	Minimum number of bracket reversals needed to make an expression balanced.
-String	Count All Palindromic Subsequence in a given String.
-String	Count of number of given string in 2D character array
-String	Search a Word in a 2D Grid of characters.
-String	Boyer Moore Algorithm for Pattern Searching.
-String	Converting Roman Numerals to Decimal
-String	Longest Common Prefix
-String	Number of flips to make binary string alternate
-String	Find the first repeated word in string.
-String	Minimum number of swaps for bracket balancing.
-String	Find the longest common subsequence between two strings.
-String	Program to generate all possible valid IP addresses from given string.
-String	Write a program tofind the smallest window that contains all characters of string itself.
-String	Rearrange characters in a string such that no two adjacent are same
-String	Minimum characters to be added at front to make string palindrome
-String	Given a sequence of words, print all anagrams together
-String	Find the smallest window in a string containing all characters of another string
-String	Recursively remove all adjacent duplicates
-String	String matching where one string contains wildcard characters
-String	Function to find Number of customers who could not get a computer
-String	Transform One String to Another using Minimum Number of Given Operation
-String	Check if two given strings are isomorphic to each other
-String	Recursively print all sentences that can be formed from list of word lists
+47|[Reverse a String](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Reverse%20a%20String)|[Leetcode](https://leetcode.com/problems/reverse-string/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Reverse%20a%20String/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Reverse%20a%20String/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Reverse%20a%20String/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Reverse%20a%20String/Other%20Languages)
+48|[Check whether a String is Palindrome or not](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Check%20whether%20a%20String%20is%20Palindrome%20or%20not)|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Check%20whether%20a%20String%20is%20Palindrome%20or%20not/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Check%20whether%20a%20String%20is%20Palindrome%20or%20not/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Check%20whether%20a%20String%20is%20Palindrome%20or%20not/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Check%20whether%20a%20String%20is%20Palindrome%20or%20not/Other%20Languages)
+49|[Find Duplicate characters in a string](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Duplicate%20characters%20in%20a%20string)|[GeeksForGeeks](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Duplicate%20characters%20in%20a%20string/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Duplicate%20characters%20in%20a%20string/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Duplicate%20characters%20in%20a%20string/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Duplicate%20characters%20in%20a%20string/Other%20Languages)
+50|[Why strings are immutable in Java?](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Why%20strings%20are%20immutable%20in%20Java)|[GeeksForGeeks]()|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Why%20strings%20are%20immutable%20in%20Java/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Why%20strings%20are%20immutable%20in%20Java/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Why%20strings%20are%20immutable%20in%20Java/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Why%20strings%20are%20immutable%20in%20Java/Other%20Languages)
+51|[Write a Code to check whether one string is a rotation of another](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another)|[GeeksForGeeks](https://www.geeksforgeeks.org/a-program-to-check-if-strings-are-rotations-of-each-other/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Code%20to%20check%20whether%20one%20string%20is%20a%20rotation%20of%20another/Other%20Languages)
+52|[Write a Program to check whether a string is a valid shuffle of two strings or not](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not)|[GeeksForGeeks](https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20Program%20to%20check%20whether%20a%20string%20is%20a%20valid%20shuffle%20of%20two%20strings%20or%20not/Other%20Languages)
+53|[Count and Say problem](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Count%20and%20Say%20problem)|[Leetcode](https://leetcode.com/problems/count-and-say/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Count%20and%20Say%20problem/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Count%20and%20Say%20problem/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Count%20and%20Say%20problem/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Count%20and%20Say%20problem/Other%20Languages)
+54|[Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D)|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Write%20a%20program%20to%20find%20the%20longest%20Palindrome%20in%20a%20string.%5B%20Longest%20palindromic%20Substring%5D/Other%20Languages)
+55|[Find Longest Recurring Subsequence in String](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Longest%20Recurring%20Subsequence%20in%20String)|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Longest%20Recurring%20Subsequence%20in%20String/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Longest%20Recurring%20Subsequence%20in%20String/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Longest%20Recurring%20Subsequence%20in%20String/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Find%20Longest%20Recurring%20Subsequence%20in%20String/Other%20Languages)
+56|[Print all Subsequences of a string](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20Subsequences%20of%20a%20string)|[GeeksForGeeks](https://www.geeksforgeeks.org/print-subsequences-string/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20Subsequences%20of%20a%20string/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20Subsequences%20of%20a%20string/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20Subsequences%20of%20a%20string/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20Subsequences%20of%20a%20string/Other%20Languages)
+57|[Print all the permutations of the given string](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20the%20permutations%20of%20the%20given%20string)|[GeeksForGeeks]()|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20the%20permutations%20of%20the%20given%20string/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20the%20permutations%20of%20the%20given%20string/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20the%20permutations%20of%20the%20given%20string/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Print%20all%20the%20permutations%20of%20the%20given%20string/Other%20Languages)
+58|[Split the Binary string into two substring with equal 0’s and 1’s](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s)|[GeeksForGeeks]()|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Split%20the%20Binary%20string%20into%20two%20substring%20with%20equal%200%E2%80%99s%20and%201%E2%80%99s/Other%20Languages)
+59|[Word Wrap Problem [VERY IMP]](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D)|[GeeksForGeeks]()|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/Word%20Wrap%20Problem%20%5BVERY%20IMP%5D/Other%20Languages)
+60|[EDIT Distance [Very Imp]](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/EDIT%20Distance%20%5BVery%20Imp%5D)|[GeeksForGeeks]()|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/EDIT%20Distance%20%5BVery%20Imp%5D/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/EDIT%20Distance%20%5BVery%20Imp%5D/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/EDIT%20Distance%20%5BVery%20Imp%5D/Python)|[-](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/String/EDIT%20Distance%20%5BVery%20Imp%5D/Other%20Languages)
+61|[Find next greater number with same set of digits. [Very Very IMP]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+62|[Balanced Parenthesis problem.[Imp]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+63|[Word break Problem[ Very Imp]]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+64|[Rabin Karp Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+65|[KMP Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+66|[Convert a Sentence into its equivalent mobile numeric keypad sequence]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+67|[Minimum number of bracket reversals needed to make an expression balanced]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+68|[Count All Palindromic Subsequence in a given String]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+69|[Count of number of given string in 2D character array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+70|[Search a Word in a 2D Grid of characters]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+71|[Boyer Moore Algorithm for Pattern Searching]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+72|[Converting Roman Numerals to Decimal]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+73|[Longest Common Prefix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+74|[Number of flips to make binary string alternate]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+75|[Find the first repeated word in string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+76|[Minimum number of swaps for bracket balancing]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+77|[Find the longest common subsequence between two strings]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+78|[Program to generate all possible valid IP addresses from given string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+79|[Write a program tofind the smallest window that contains all characters of string itself]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+80|[Rearrange characters in a string such that no two adjacent are same]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+81|[Minimum characters to be added at front to make string palindrome]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+82|[Given a sequence of words, print all anagrams together]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+83|[Find the smallest window in a string containing all characters of another string]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+84|[Recursively remove all adjacent duplicates]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+85|[String matching where one string contains wildcard characters]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+86|[Function to find Number of customers who could not get a computer]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+87|[Transform One String to Another using Minimum Number of Given Operation]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+88|[Check if two given strings are isomorphic to each other]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+89|[Recursively print all sentences that can be formed from list of word lists]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
+61|[]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+
  	 
 ### Searching & Sorting
 S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-	 
-Searching & Sorting	Find first and last positions of an element in a sorted array
-Searching & Sorting	Find a Fixed Point (Value equal to index) in a given array
-Searching & Sorting	Search in a rotated sorted array
-Searching & Sorting	Square root of an integer
-Searching & Sorting	Maximum and minimum of an array using minimum number of comparisons
-Searching & Sorting	Optimum location of point to minimize total distance
-Searching & Sorting	Find the repeating and the missing
-Searching & Sorting	Find majority element
-Searching & Sorting	Searching in an array where adjacent differ by at most k
-Searching & Sorting	Find a pair with a given difference
-Searching & Sorting	Find four elements that sum to a given value
-Searching & Sorting	Maximum sum such that no 2 elements are adjacent
-Searching & Sorting	Count triplet with sum smaller than a given value
-Searching & Sorting	Merge 2 sorted arrays
-Searching & Sorting	Print all subarrays with 0 sum
-Searching & Sorting	Product array Puzzle
-Searching & Sorting	Sort array according to count of set bits
-Searching & Sorting	Minimum no. of swaps required to sort the array
-Searching & Sorting	Bishu and Soldiers
-Searching & Sorting	Rasta and Kheshtak
-Searching & Sorting	Kth smallest number again
-Searching & Sorting	Find pivot element in a sorted array
-Searching & Sorting	K-th Element of Two Sorted Arrays
-Searching & Sorting	Aggressive cows
-Searching & Sorting	Book Allocation Problem
-Searching & Sorting	EKOSPOJ:
-Searching & Sorting	Job Scheduling Algo
-Searching & Sorting	Missing Number in AP
-Searching & Sorting	Smallest number with atleastn trailing zeroes infactorial
-Searching & Sorting	Painters Partition Problem:
-Searching & Sorting	ROTI-Prata SPOJ
-Searching & Sorting	DoubleHelix SPOJ
-Searching & Sorting	Subset Sums
-Searching & Sorting	Find the inversion count
-Searching & Sorting	Implement Merge-sort in-place
-Searching & Sorting	Partitioning and Sorting Arrays with Many Repeated Entries
+90|[Find first and last positions of an element in a sorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+91|[Find a Fixed Point (Value equal to index) in a given array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+92|[Search in a rotated sorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+93|[Square root of an integer]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+94|[Maximum and minimum of an array using minimum number of comparisons]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+95|[Optimum location of point to minimize total distance]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+96|[Find the repeating and the missing]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+97|[Find majority element]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+97|[Searching in an array where adjacent differ by at most k]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+98|[Find a pair with a given difference]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+99|[Find four elements that sum to a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+100|[Maximum sum such that no 2 elements are adjacent]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+101|[Count triplet with sum smaller than a given value]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+102|[Merge 2 sorted arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+103|[Print all subarrays with 0 sum]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+104|[Product array Puzzle]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+105|[Sort array according to count of set bits]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+106|[Minimum no. of swaps required to sort the array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+107|[Bishu and Soldiers]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+108|[Rasta and Kheshtak]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+109|[Kth smallest number again]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+110|[Find pivot element in a sorted array]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+111|[K-th Element of Two Sorted Arrays]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+112|[Aggressive cows]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+113|[Book Allocation Problem]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+114|[EKOSPOJ:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+115|[Job Scheduling Algo]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+116|[Missing Number in AP]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+117|[Smallest number with atleastn trailing zeroes infactorial]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+118|[Painters Partition Problem:]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+119|[ROTI-Prata SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+120|[DoubleHelix SPOJ]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+121|[Subset Sums]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+122|[Find the inversion count]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+123|[Implement Merge-sort in-place]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
+124|[Partitioning and Sorting Arrays with Many Repeated Entries]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)
  	 
 ### LinkedList
 S. No.|Problem|Reference|C++|Java|Python|Other languages
