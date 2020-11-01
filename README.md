@@ -14,7 +14,7 @@
 ### Arrays
 Sr. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
-[01](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/01)|Reverse the array|[GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|&check;|&check;|&check;|-
+01|[Reverse the array](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Arrays/Reverse%20the%20array)|[GeeksForGeeks](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Arrays/Reverse%20the%20array/C%2B%2B)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Arrays/Reverse%20the%20array/Java)|[0](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/Arrays/Reverse%20the%20array/Python)|-
 
 Array	Find the maximum and minimum element in an array
 Array	Find the "Kth" max and min element of an array
