@@ -4,6 +4,8 @@
 
 [Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) to the original sheet.
 
+[Here](https://github.com/draco-malfoy/DCS-LoveBabbar#Contributors) a collage of awesome DSA crackers.
+
 |-|-|-|-|-|
 |-|-|-|-|-|
 [Arrays](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Matrix](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[String](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Searching & Sorting](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Linked List](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
@@ -115,7 +117,9 @@ String	Transform One String to Another using Minimum Number of Given Operation
 String	Check if two given strings are isomorphic to each other
 String	Recursively print all sentences that can be formed from list of word lists
  	 
- 	 
+### Searching & Sorting
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	 
 Searching & Sorting	Find first and last positions of an element in a sorted array
 Searching & Sorting	Find a Fixed Point (Value equal to index) in a given array
 Searching & Sorting	Search in a rotated sorted array
@@ -153,7 +157,9 @@ Searching & Sorting	Find the inversion count
 Searching & Sorting	Implement Merge-sort in-place
 Searching & Sorting	Partitioning and Sorting Arrays with Many Repeated Entries
  	 
- 	 
+### LinkedList
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	 
 LinkedList	Write a Program to reverse the Linked List. (Both Iterative and recursive)
 LinkedList	Reverse a Linked List in group of Given Size. [Very Imp]
 LinkedList	Write a program to Detect loop in a linked list.
@@ -191,7 +197,9 @@ LinkedList	Segregate even and odd nodes in a Linked List
 LinkedList	Program for n’th node from the end of a Linked List
 LinkedList	Find the first non-repeating character from a stream of characters
  	 
- 	 
+### Binary Trees
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 Binary Trees	Level order traversal
 Binary Trees	Reverse Level Order traversal
 Binary Trees	Height of a tree
@@ -228,7 +236,9 @@ Binary Trees	Kth Ancestor of node in a Binary tree
 Binary Trees	Find all Duplicate subtrees in a Binary tree [ IMP ]
 Binary Trees	Tree Isomorphism Problem
  	 
- 	 
+### Binary Search Trees
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 Binary Search Trees	Find a value in a BST
 Binary Search Trees	Deletion of a node in a BST
 Binary Search Trees	Find min and max value in a BST
@@ -252,7 +262,9 @@ Binary Search Trees	Check whether BST contains Dead end
 Binary Search Trees	Largest BST in a Binary Tree [ V.V.V.V.V IMP ]
 Binary Search Trees	Flatten BST to sorted list
  	 
- 	 
+### Greedy
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 Greedy	Activity Selection Problem
 Greedy	Job SequencingProblem
 Greedy	Huffman Coding
@@ -289,7 +301,9 @@ Greedy	Find smallest number with given number of digits and sum of digits
 Greedy	Rearrange characters in a string such that no two adjacent are same
 Greedy	Find maximum sum possible equal sum of three stacks
  	 
- 	 
+### BackTracking
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 BackTracking	Rat in a maze Problem
 BackTracking	Printing all solutions in N-Queen Problem
 BackTracking	Word Break Problem using Backtracking
@@ -310,7 +324,9 @@ BackTracking	Print all possible paths from top left to bottom right of a mXn mat
 BackTracking	Partition of a set intoK subsets with equal sum
 BackTracking	Find the K-th Permutation Sequence of first N natural numbers
  	 
- 	 
+### Stacks & Queues
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 Stacks & Queues	Implement Stack from Scratch
 Stacks & Queues	Implement Queue from Scratch
 Stacks & Queues	Implement 2 stack in an array
@@ -350,7 +366,9 @@ Stacks & Queues	Minimum sum of squares of character counts in a given string aft
 Stacks & Queues	Queue based approach or first non-repeating character in a stream.
 Stacks & Queues	Next Smaller Element
  	 
- 	 
+### Heap
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-	
 Heap	Implement a Maxheap/MinHeap using arrays and recursion.
 Heap	Sort an Array using heap. (HeapSort)
 Heap	Maximum of all subarrays of size k.
@@ -370,7 +388,9 @@ Heap	Convert min heap to max heap
 Heap	Rearrange characters in a string such that no two adjacent are same.
 Heap	Minimum sum of two numbers formed from digits of an array
  	 
- 	 
+### Graph
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-
 Graph	Create a Graph, print it
 Graph	Implement BFS algorithm
 Graph	Implement DFS Algo
@@ -416,7 +436,9 @@ Graph	Number of Triangles in a Directed and Undirected Graph
 Graph	Minimise the cashflow among a given set of friends who have borrowed money from each other
 Graph	Two Clique Problem
  	 
- 	 
+### Trie
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-
 Trie	Construct a trie from scratch
 Trie	Find shortest unique prefix for every word in a given list
 Trie	Word Break Problem | (Trie solution)
@@ -424,7 +446,9 @@ Trie	Given a sequence of words, print all anagrams together
 Trie	Implement a Phone Directory
 Trie	Print unique rows in a given boolean matrix
  	 
- 	 
+### Dynamic Programming
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-
 Dynamic Programming	Coin ChangeProblem
 Dynamic Programming	Knapsack Problem
 Dynamic Programming	Binomial CoefficientProblem
@@ -486,7 +510,9 @@ Dynamic Programming	Maximum profit by buying and selling a share at most k times
 Dynamic Programming	Find if a string is interleaved of two other strings
 Dynamic Programming	Maximum Length of Pair Chain
  	 
- 	 
+### Bit Manipulation
+S. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-
 Bit Manipulation	Count set bits in an integer
 Bit Manipulation	Find the two non-repeating elements in an array of repeating elements
 Bit Manipulation	Count number of bits to be flipped to convert A to B
@@ -497,3 +523,6 @@ Bit Manipulation	Copy set bits in a range
 Bit Manipulation	Divide two integers without using multiplication, division and mod operator
 Bit Manipulation	Calculate square of a number without using *, / and pow()
 Bit Manipulation	Power Set
+
+## Contributors
+
