@@ -4,35 +4,11 @@
 
 [Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) to the original sheet.
 
-[Arrays](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Matrix](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[String](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Searching & Sorting](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Linked List](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Binary Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Binary Search Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Greedy](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[BackTracking](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Stacks & Queues](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Heap](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Graph](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Trie](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Dynamic Programming](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
-
-[Bit Manipulation](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+|-|-|-|-|-|
+|-|-|-|-|-|
+[Arrays](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Matrix](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[String](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Searching & Sorting](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Linked List](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+[Binary Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Binary Search Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Greedy](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[BackTracking](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Stacks & Queues](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+[Heap](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Graph](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Trie](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Dynamic Programming](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)|[Bit Manipulation](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
 
 
 ### Arrays
