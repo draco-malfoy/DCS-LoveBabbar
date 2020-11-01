@@ -4,9 +4,41 @@
 
 [Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) to the original sheet.
 
-Topic|Sr. No.|Problem|Reference|C++|Java|Python|Other languages
--|-|-|-|-|-|-|-
-Array|[01](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/01)|Reverse the array|[GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|&check;|&check;|&check;|-
+[Arrays](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Matrix](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[String](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Searching & Sorting](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Linked List](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Binary Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Binary Search Trees](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Greedy](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[BackTracking](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Stacks & Queues](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Heap](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Graph](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Trie](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Dynamic Programming](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+[Bit Manipulation](https://github.com/draco-malfoy/DCS-LoveBabbar#Arrays)
+
+
+### Arrays
+Sr. No.|Problem|Reference|C++|Java|Python|Other languages
+-|-|-|-|-|-|-
+[01](https://github.com/draco-malfoy/DCS-LoveBabbar/tree/main/Database/01)|Reverse the array|[GFG](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)|&check;|&check;|&check;|-
 
 Array	Find the maximum and minimum element in an array
 Array	Find the "Kth" max and min element of an array
