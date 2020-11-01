@@ -4,7 +4,7 @@
 
 [Link](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) to the original sheet.
 
-[Here](https://github.com/draco-malfoy/DCS-LoveBabbar#Contributors) a collage of awesome DSA crackers.
+[Here's](https://github.com/draco-malfoy/DCS-LoveBabbar#Contributors) a collage of awesome DSA crackers.
 
 |-|-|-|-|-|
 |-|-|-|-|-|
@@ -439,7 +439,7 @@ S. No.|Problem|Reference|C++|Java|Python|Other languages
 -|-|-|-|-|-|-
 373|[Construct a trie from scratch]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
 374|[Find shortest unique prefix for every word in a given list]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
-375|[Word Break Problem | (Trie solution)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
+375|[Word Break Problem - (Trie solution)]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
 376|[Given a sequence of words, print all anagrams together]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
 377|[Implement a Phone Directory]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
 378|[Print unique rows in a given boolean matrix]()|[GeeksForGeeks]()|[0](/C%2B%2B)|[0](/Java)|[0](/Python)|[-](/Other%20Languages)	
