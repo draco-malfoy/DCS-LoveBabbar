@@ -1,0 +1,29 @@
+ long maxsum = Integer.MIN_VALUE;
+
+        long currsum =0; 
+
+        for(int i=0;i<n;i++){
+
+            currsum += arr[i];
+
+            if(maxsum<currsum){
+
+                 maxsum = currsum;          
+
+            } 
+
+            maxsum = Math.max(currsum, maxsum);
+
+                if(currsum<0){
+
+                    currsum =0;
+
+                }
+
+         }
+
+        return maxsum;
+
+    }
+
+}
